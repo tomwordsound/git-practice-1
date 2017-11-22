@@ -1,3 +1,23 @@
 body {
   font-family: Arial, sans-serif;
+  color: white;
+  font-kerning: 5px;
+  font-weight: bold;
+}
+body {
+  background-color: gray;
+}
+.mainbox {
+  size: 300px 300px
+  background-color: yellow;
+  color: blue;
+}
+h1 {
+  background-image: url("http://a.abcnews.com/images/Entertainment/HT-Gordon-Ramsay-ml-170516_16x9_992.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  text-align: center;
+  background-size: contain;
 }
